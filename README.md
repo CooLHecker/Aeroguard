@@ -136,3 +136,10 @@ Clean air affects everyone. Understanding it should be simple.
 This project is intended for educational and non-commercial use.
 
 ---
+## 👥 Contributors
+
+- **[Sachin Kumawat](https://github.com/your-username)** — Project lead, system design, backend & integration  
+- **[Karmanya Jakhotia](https://github.com/Karmanya-Jakhotia)** — Frontend UI & Streamlit components   
+- **[Rajwardhan Patil](https://github.com/Rajwardhan-09)** — Data analysis & Heatmap
+- **[Siddhant Mondkar](https://github.com/AbYsMaL00)** — Documentation, testing and UI Designing
+
