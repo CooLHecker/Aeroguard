@@ -79,7 +79,7 @@ Each part of the system is modular, making the project easy to maintain and exte
 * **API:** World Air Quality Index (WAQI)
 * **Visualization:** Folium, Streamlit components
 * **Machine Learning:** Scikit-learn (optional module)
-* **Deployment:** Streamlit Cloud, Docker, Heroku
+* **Deployment:** Streamlit Cloud
 
 ---
 
